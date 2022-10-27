@@ -1,1 +1,1 @@
-web gunicorn mysite.wgsi:application --log-file -
+web gunicorn mysite.wgsi --log-file -
